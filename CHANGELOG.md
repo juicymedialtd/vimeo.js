@@ -1,5 +1,9 @@
 # Changelog
 
+## [2.2.0] - 2021-10-05
+## Added
+- Add support for binary uploads of files
+
 ## [2.1.1] - 2018-11-09
 ## Added
 - Upload and replace methods now support file blogs. ([#86](https://github.com/vimeo/vimeo.js/pull/86), [@nicolastakashi](https://github.com/nicolastakashi))

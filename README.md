@@ -29,7 +29,7 @@ There is a lot of information about the Vimeo API at https://developer.vimeo.com
 
 ## Installation
 
-    npm install vimeo
+    npm install juicymedialtd/vimeo.js#master
 
 ## Usage
 
